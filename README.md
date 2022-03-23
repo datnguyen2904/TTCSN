@@ -1,3 +1,8 @@
 # TTCSN
-nhóm 9:
-chủ đề : hệ thống quản lý điểm của trường đại học Công nghiệp HN
+<h2>nhóm 9:</h2>
+<p>Chủ đề : hệ thống quản lý điểm của trường đại học Công nghiệp HN</p>
+<p>Thành viên:</p>
+<p>-Nguyễn Văn Đạt (nhóm trưởng)</p>
+<p>-Nguyễn Trung Hậu</p>
+<p>-Bùi Thị Thơm</p>
+<p>-Lê Thị Thanh Trúc</p>
